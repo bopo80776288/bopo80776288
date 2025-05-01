@@ -2,7 +2,7 @@
 
 **`Software Engineering (Developer/Student/Creator)`**
 
-I am a Master’s student in Computer Science @ CU Boulder. Transitioning into tech with a focus on full-stack software development, systems programming, and algorithms.
+I am a Master’s student in Computer Science @ <a href="https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science"> CU Boulder </a>. Transitioning into tech with a focus on full-stack software development, systems programming, and algorithms.
 Working with Python, React, and Linux networking, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in software engineering.
 
 ### 🧰 Languages and Tools
