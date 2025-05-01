@@ -2,8 +2,8 @@
 
 **`Software Engineering (Developer/Student/Creator)`**
 
-I am a Master’s student in Computer Science @ <a href="https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science"> CU Boulder </a>. Transitioning into tech with a focus on full-stack software development, systems programming, and algorithms.
-Working with Python, React, and Linux networking, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in software engineering.
+I am a Master’s student in Computer Science @ <a href="https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science"> CU Boulder </a>. Diving into tech with a focus on full-stack software development.
+Currently working with Python, React, and Linux networking, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in software engineering.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
