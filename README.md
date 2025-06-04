@@ -1,6 +1,6 @@
 # Ben Cho 
 
-**`Software Engineering (Developer/Student/Creator)`**
+**`Software Engineering (Developer/Creator/Learner)`**
 
 I am a Master’s student in Computer Science @ <a href="https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science"> CU Boulder </a>. Diving into tech with a focus on full-stack software development.
 Currently working with Python, React, and Linux networking, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in software engineering.
