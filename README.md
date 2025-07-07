@@ -3,7 +3,7 @@
 **`Data Analyst/Scientist & Machine Learning Engineer (Developer/Creator/Learner)`**
 
 I am a Master’s student in Computer Science @ <a href="https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science"> CU Boulder </a>. Diving into tech with a focus on data science and machine learning.
-Currently working with Python, various machine learning models, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in data science and machine learning field.
+Currently working with Python, SQL, and various machine learning models, while actively building projects, solving LeetCode problems, and preparing for internship opportunities in data science and machine learning field.
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
