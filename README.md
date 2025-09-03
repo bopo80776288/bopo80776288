@@ -45,17 +45,17 @@
 
 ### 📂 Featured Projects  
 
-- 📝 [**Toxic Text Classification**](https://github.com/yourusername/toxic-text-classification)  
+- 📊 [**Customer Churn Analysis Dashboard**](https://github.com/bopo80776288/user-behavior-data-analysis.git)  
+  Built end-to-end analytics pipeline, processed customer records and generating A/B test and event log data for analysis.
+
+- 📝 [**Toxic Text Classification**](https://github.com/bopo80776288/GRU-DistilBERT-Deep-Learning-Toxic-Classification.git)  
   Built GRU & fine-tuned DistilBERT models to classify toxic comments.  
 
-- 🚨 [**Fraud Detection (IEEE-CIS Kaggle)**](https://github.com/yourusername/fraud-detection)  
+- 🚨 [**Fraud Detection (IEEE-CIS)**](https://github.com/bopo80776288/Isolation-Forest-Autoencoder-Unsupervised-Learning-Fraud-Transaction-Detection.git)  
   Applied Isolation Forest & Autoencoder for anomaly detection.  
 
-- 🧬 [**Cancer Detection using CNN**](https://github.com/yourusername/cancer-detection)  
-  Image-based deep learning for binary cancer classification.  
-
-- 📊 [**Customer Survival Prediction**](https://github.com/yourusername/survival-prediction)  
-  Developed binary classification models using Logistic Regression & Random Forest.  
+- 🧬 [**Web Data Extraction for SEO Analysis**](https://github.com/bopo80776288/seo-selenium-web-scraper.git)  
+  Automated SEO scraper (Selenium + BeautifulSoup): batch CSV keywords, extract Google AI Overview with sources, run domain analysis, and generate word cloud.
 
 ---
 #
