@@ -2,7 +2,7 @@
 
 **`Data Analyst/Scientist | Machine Learning Engineer | Developer`**  
 
-🎓 Master’s Student in Computer Science @ [CU Boulder](https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science)  
+🎓 Master’s Student in **Computer Science** @ [CU Boulder](https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science)  
 💡 Exploring **Data Analysis/Science, Machine Learning, and AI Applications**  
 🌍 Based in **Taiwan**, open to global opportunities  
 
