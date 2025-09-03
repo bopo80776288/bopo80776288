@@ -49,11 +49,11 @@
   Built end-to-end analytics pipeline, processed customer records and generating A/B test and event log data for analysis.
 
 - 📝 [**Toxic Text Classification**](https://github.com/bopo80776288/GRU-DistilBERT-Deep-Learning-Toxic-Classification.git)  
-  Built GRU & fine-tuned DistilBERT models to classify toxic comments.  
-
+  Applied DistilBERT for toxic language detection, combining tokenized text with attention to class imbalance, and evaluated performance using ROC-AUC and precision-recall metrics.
+  
 - 🚨 [**Fraud Detection (IEEE-CIS)**](https://github.com/bopo80776288/Isolation-Forest-Autoencoder-Unsupervised-Learning-Fraud-Transaction-Detection.git)  
-  Applied Isolation Forest & Autoencoder for anomaly detection.  
-
+  Applied Isolation Forest & Autoencoder for anomaly detection on financial transactions, improving detection accuracy of fraudulent cases.
+  
 - 🧬 [**Web Data Extraction for SEO Analysis**](https://github.com/bopo80776288/seo-selenium-web-scraper.git)  
   Automated SEO scraper (Selenium + BeautifulSoup): batch CSV keywords, extract Google AI Overview with sources, run domain analysis, and generate word cloud.
 
