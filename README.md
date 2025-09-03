@@ -23,22 +23,22 @@
 ### 🧰 Languages and Tools  
 
 <p>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/8ad5d715-bc12-46ae-8d4e-3cea911a0bad" alt="Python"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9c0a568c-fbd7-4ba1-98cf-8b154af4f1b3" alt="SQL"/>
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/1b91a021-fc11-4584-9412-bacc24ca8d12" />
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7e03ae1b-f782-4bc4-b3c3-e9b0d2680575" alt="TensorFlow"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c761317b-49e0-4d16-8c85-70bccf5c805b" alt="Scikit-Learn"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/15bbfe6c-6daf-4a0b-9238-f40d1835700a" alt="Pandas"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/5faa29b7-3732-434c-bb27-0bbb1d08b7e0" alt="NumPy"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/3147df1f-c084-4550-92b2-1a8f2185c532" alt="Matplotlib"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b8ce0a2e-0811-4e7d-9c3a-975302da124c" alt="Git"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/96fca4e3-c238-4c32-9ded-6d66fd17f992" alt="Excel"/>
-  <img width="40" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7e428777-f2a3-49dd-b958-3fb06e1e7609" alt="AWS"/>
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/faf8ac20-9fe7-4288-8a69-fdf3f950b241" />
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/e1bb5ba2-d48b-4f55-981e-dce5eeabb36e" />
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/7a72498b-5ec6-4125-a910-4cf55e9a974b" />
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/d1b1bbfc-0007-496b-8294-c951feb61873" />
-  <img width="40" height="40" style="padding-right:10px;" alt="image" src="https://github.com/user-attachments/assets/2a75f822-b58f-4ac5-af20-b5fd87b8a735" />
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/8ad5d715-bc12-46ae-8d4e-3cea911a0bad" alt="Python"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/9c0a568c-fbd7-4ba1-98cf-8b154af4f1b3" alt="SQL"/>
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/1b91a021-fc11-4584-9412-bacc24ca8d12" />
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/7e03ae1b-f782-4bc4-b3c3-e9b0d2680575" alt="TensorFlow"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/c761317b-49e0-4d16-8c85-70bccf5c805b" alt="Scikit-Learn"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/15bbfe6c-6daf-4a0b-9238-f40d1835700a" alt="Pandas"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/5faa29b7-3732-434c-bb27-0bbb1d08b7e0" alt="NumPy"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/3147df1f-c084-4550-92b2-1a8f2185c532" alt="Matplotlib"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/b8ce0a2e-0811-4e7d-9c3a-975302da124c" alt="Git"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/96fca4e3-c238-4c32-9ded-6d66fd17f992" alt="Excel"/>
+  <img width="40" style="padding-right:20px;" src="https://github.com/user-attachments/assets/7e428777-f2a3-49dd-b958-3fb06e1e7609" alt="AWS"/>
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/faf8ac20-9fe7-4288-8a69-fdf3f950b241" />
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/e1bb5ba2-d48b-4f55-981e-dce5eeabb36e" />
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/7a72498b-5ec6-4125-a910-4cf55e9a974b" />
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/d1b1bbfc-0007-496b-8294-c951feb61873" />
+  <img width="40" height="40" style="padding-right:20px;" alt="image" src="https://github.com/user-attachments/assets/2a75f822-b58f-4ac5-af20-b5fd87b8a735" />
 </p>
 
 ---
