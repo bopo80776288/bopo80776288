@@ -15,7 +15,7 @@
 ### 🚀 About Me  
 🔭 Currently working with **Python, SQL, and Machine Learning**  
 🧠 Focused on **data-driven problem solving & applied ML projects**  
-📈 Building projects and preparing for **internship opportunities**  
+📈 Building projects and actively seeking for **internship opportunities**  
 📚 Bachelor's degree in **Finance & Business Management** @ [Purdue University](https://business.purdue.edu/undergraduate/academics/finance.php)
 
 ---
