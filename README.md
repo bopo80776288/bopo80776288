@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Ben Cho  
 
-**`Data Analyst/Scientist | Machine Learning Engineer | Developer`**  
+**`Data Engineer | Developer`**  
 
-🎓 Master’s Student in **Computer Science** @ [CU Boulder](https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science)  
-💡 Exploring **Data Analysis/Science, Machine Learning, and AI Applications**  
+🎓 Graguate Master from **Computer Science** @ [CU Boulder](https://www.colorado.edu/cs/academics/graduate-programs/master-science-computer-science)  
+💡 Exploring **Data Engineering/Analysis, Machine Learning, and AI Applications**  
 🌍 Based in **Taiwan**, open to global opportunities  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-hsu-cho-671627335/) 
