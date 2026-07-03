@@ -44,17 +44,11 @@
 
 ### 📂 Featured Projects  
 
-- 📊 [**Customer Churn Analysis Dashboard**](https://github.com/bopo80776288/user-behavior-data-analysis.git)  
-  Built end-to-end analytics pipeline, processed customer records and generating A/B test and event log data for analysis.
-
-- 📝 [**Toxic Text Classification**](https://github.com/bopo80776288/GRU-DistilBERT-Deep-Learning-Toxic-Classification.git)  
-  Applied DistilBERT for toxic language detection, combining tokenized text with attention to class imbalance, and evaluated performance using ROC-AUC and precision-recall metrics.
-  
-- 🚨 [**Fraud Detection (IEEE-CIS)**](https://github.com/bopo80776288/Isolation-Forest-Autoencoder-Unsupervised-Learning-Fraud-Transaction-Detection.git)  
-  Applied Isolation Forest & Autoencoder for anomaly detection on financial transactions, improving detection accuracy of fraudulent cases.
-  
-- 🧬 [**Web Data Extraction for SEO Analysis**](https://github.com/bopo80776288/seo-selenium-web-scraper.git)  
-  Automated SEO scraper (Selenium + BeautifulSoup): batch CSV keywords, extract Google AI Overview with sources, run domain analysis, and generate word cloud.
+- 📊 [**BigQuery Analytics Warehouse**](https://github.com/bopo80776288/bigquery-analytics-warehouse)  
+- 📝 [**GCP ELT Pipeline**](https://github.com/bopo80776288/gcp-elt-pipelines)  
+- 🚨 [**Retail Assortment Data Product**](https://github.com/bopo80776288/retail-assortment-data-product)    
+- 🧬 [**Sales Performance Data Pipeline**](https://github.com/bopo80776288/sales-performance-data-pipeline)  
+- 📊 [**Notion Analytics Pipeline**](https://github.com/bopo80776288/notion-ops-analytics-pipeline)  
 
 ---
 #
